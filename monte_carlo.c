@@ -16,7 +16,7 @@ for(int i=1; i<=n; i++){
 } square = square + circle;
  float pi = (float)4*circle/square;
 return pi;
-};
+}
 
 float frandom() {
   long int q = random();
